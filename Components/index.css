@@ -1,0 +1,82 @@
+
+#nav{
+    background-color: red;
+}
+#navUL li a{
+    color: white;
+    font-size: 18px;
+    margin-right: 25px;
+}
+
+.contain1{
+    background-image: url(https://media.istockphoto.com/photos/web-programming-functions-on-laptop-on-laptop-it-business-python-code-picture-id1142539785?k=20&m=1142539785&s=612x612&w=0&h=vlE7qz6ikf4e8V-Thm6rNj0_h7R2Hmgn0S3ZCmle8DY=);
+background-size: cover;
+ height: 70vh;
+ background-attachment: scroll;
+}
+#mainHeading{
+   color: #f00606;
+   font-size: 87px; 
+}
+ 
+
+.cardd1 {
+    background: #fff;    
+    justify-content: flex-start;
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+
+    gap: 5px;
+    box-shadow: 5px 5px 10px  rgba(221, 221, 221, 0.445)
+}
+.cardd2 {
+    background: #fff;    
+    justify-content: flex-start;
+    width: 300px;
+    height: 478px;
+    border-radius: 10px;
+
+    gap: 5px;
+    box-shadow: 5px 5px 10px  rgba(221, 221, 221, 0.445)
+}
+
+.cardd3 {
+    background: #fff;    
+    justify-content: flex-start;
+    width: 300px;
+    height: 558px;
+    border-radius: 10px;
+
+    gap: 5px;
+    box-shadow: 5px 5px 10px  rgba(221, 221, 221, 0.445)
+}
+
+.cardd div {
+    margin: 0 20px 20px 50px;
+    width: 300px;
+    background: #eef0fc9c;
+    border-radius: 10px;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 10px;
+}
+ 
+.cardd p{
+    color: black;
+}
+
+.cardd button{
+    color: black;
+    border-radius: 15px;
+    padding: 5px 12px;
+    margin-top: 20px;
+    background-color: white;
+}
+
+.cardd button:hover{
+    background-color: black;
+    color: white;
+}
