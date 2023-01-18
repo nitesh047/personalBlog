@@ -82,7 +82,7 @@ background-size: cover;
 }
 
 #blogCard{
-    border: 1px solid;
+    /* border: 1px sol  id; */
     width: 60%;
     padding: 25px;  
 }
