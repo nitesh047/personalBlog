@@ -80,3 +80,9 @@ background-size: cover;
     background-color: black;
     color: white;
 }
+
+#blogCard{
+    border: 1px solid;
+    width: 60%;
+    padding: 25px;  
+}
