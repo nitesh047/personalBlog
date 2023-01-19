@@ -18,6 +18,15 @@ background-size: cover;
    color: #f00606;
    font-size: 87px; 
 }
+#mainHeading2{
+   color: #f00606;
+    margin-left: 16%;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  font-size:70px
+}
  
 
 .cardd1 {
@@ -85,4 +94,62 @@ background-size: cover;
     /* border: 1px sol  id; */
     width: 60%;
     padding: 25px;  
+}
+@media screen and (max-width: 764px) {
+   #mainHeading{
+   font-size: 60px; 
+}
+ 
+}
+@media screen and (max-width: 325px) {
+   #mainHeading{
+   font-size: 50px; 
+}
+ 
+}
+@media screen and (max-width: 1352px) {
+   #mainHeading2{
+    margin-left: 12%;
+  
+}
+ 
+}
+@media screen and (max-width: 1176px) {
+   #mainHeading2{
+    margin-left: 8%;
+  
+}
+ 
+}
+@media screen and (max-width: 1064px) {
+   #mainHeading2{
+    margin-left: 4%;
+  
+}
+#blogCard{
+    /* border: 1px sol  id; */
+    width: 100%;
+}
+ 
+}
+@media screen and (max-width: 815px) {
+   #mainHeading2{
+    font-size: 60px;
+  
+}
+ 
+}
+@media screen and (max-width: 600px) {
+   #mainHeading2{
+    font-size: 50px;
+  
+}
+ 
+}
+@media screen and (max-width: 502px) {
+   #mainHeading2{
+    font-size: 40px;
+  
+}
+ 
 }
