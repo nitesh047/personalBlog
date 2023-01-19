@@ -27,7 +27,11 @@ background-size: cover;
   transform: translateY(-50%);
   font-size:70px
 }
- 
+#mainHeading3{
+   color: #f00606;
+   font-size: 46px; 
+   margin-top: 50px;
+}
 
 .cardd1 {
     background: #fff;    
@@ -130,12 +134,24 @@ background-size: cover;
     /* border: 1px sol  id; */
     width: 100%;
 }
+#mainHeading3{
+   margin-top: 20px;
+      font-size: 36px; 
+}
  
 }
 @media screen and (max-width: 815px) {
    #mainHeading2{
     font-size: 60px;
   
+}
+@media screen and (max-width: 768px) {
+   #mainHeading2{
+    font-size: 60px;
+  
+}
+#mainHeading3{
+   margin-top: 20px;
 }
  
 }
@@ -149,6 +165,13 @@ background-size: cover;
 @media screen and (max-width: 502px) {
    #mainHeading2{
     font-size: 40px;
+  
+}
+ 
+}
+@media screen and (max-width: 462px) {
+   #mainHeading3{
+    font-size: 28px;
   
 }
  
