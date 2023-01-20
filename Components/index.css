@@ -136,14 +136,14 @@ background-size: cover;
 }
 #mainHeading3{
    margin-top: 20px;
-      font-size: 36px; 
+    font-size: 36px; 
 }
  
 }
 @media screen and (max-width: 815px) {
    #mainHeading2{
     font-size: 60px;
-  
+   }
 }
 @media screen and (max-width: 768px) {
    #mainHeading2{
